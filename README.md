@@ -1,2 +1,2 @@
-# SYDE-101L-Lab-10
-*Update later*
+# SYDE-121-Lab-10
+Practice Exercises
